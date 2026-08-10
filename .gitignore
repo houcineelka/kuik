@@ -1,0 +1,18 @@
+# Added by code-review-graph
+.code-review-graph/
+
+# Internal planning docs and local tooling config — not published
+CLAUDE.md
+00-index.md
+01-setup-laravel-migrations-auth.md
+02-api-crud-annonces.md
+03-recherche-filtres-geo.md
+04-matching-automatique.md
+05-messagerie-backend.md
+06-setup-flutter-auth.md
+07-flutter-declaration-liste-carte.md
+08-flutter-messagerie-notifications.md
+cahier-des-charges-objets-perdus.md
+.mcp.json
+.claude/
+.vscode/

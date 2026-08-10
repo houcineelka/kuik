@@ -1,0 +1,159 @@
+{
+  "@@locale": "fr",
+
+  "apiErrorGeneric": "Une erreur est survenue.",
+  "apiErrorNoConnection": "Impossible de contacter le serveur. Vérifiez votre connexion.",
+
+  "notificationChannelName": "Notifications Kuik",
+  "notificationChannelDescription": "Correspondances et nouveaux messages",
+
+  "commonRetry": "Réessayer",
+  "statusLost": "Perdu",
+  "statusFound": "Trouvé",
+  "statusLostLong": "Objet perdu",
+  "statusFoundLong": "Objet trouvé",
+
+  "fieldPhoneLabel": "Téléphone",
+  "fieldPasswordLabel": "Mot de passe",
+  "fieldCityLabel": "Ville",
+  "fieldCategoryLabel": "Catégorie",
+  "actionLogin": "Se connecter",
+  "actionRegister": "S'inscrire",
+
+  "loginGreetingTitle": "Bon retour",
+  "loginSubtitle": "Connectez-vous pour retrouver vos annonces.",
+  "loginNoAccountPrompt": "Pas encore de compte ? ",
+  "loginRegisterLink": "Inscrivez-vous",
+
+  "registerStampLabel": "INSCRIT",
+  "registerTitle": "Créer un\ncompte",
+  "registerSubtitle": "Rejoignez le registre pour déclarer ou retrouver un objet.",
+  "registerNameLabel": "Nom complet",
+  "registerHasAccountPrompt": "Vous avez déjà un compte ? ",
+
+  "splashTagline": "Objets perdus, retrouvés.",
+
+  "stampVerifiedLabel": "VÉRIFIÉ",
+
+  "chatAppBarTitle": "Conversation",
+  "chatLoadError": "Impossible de charger les messages.",
+  "chatEmptyState": "Aucun message pour le moment.",
+  "chatComposerHint": "Écrire un message...",
+
+  "conversationsAppBarTitle": "Conversations",
+  "conversationsLoadError": "Impossible de charger les conversations.",
+  "conversationsEmptyState": "Vous n'avez encore aucune conversation.",
+
+  "accueilProfileTooltip": "Profil",
+  "accueilLogoutMenuItem": "Déconnexion",
+  "accueilLanguageMenuItem": "Langue",
+  "accueilGreeting": "Bonjour",
+  "accueilSubtitle": "Retrouvez ce qui compte.",
+  "accueilStatObjectsLabel": "objets",
+  "accueilStatLostLabel": "perdus",
+  "accueilStatFoundLabel": "trouvés",
+  "accueilNearbySectionTitle": "À proximité",
+  "accueilNearbyLoadError": "Impossible de charger les annonces à proximité.",
+  "accueilNearbyEmptyState": "Aucune annonce à proximité pour le moment.",
+  "accueilSearchBarTitle": "Que recherchez-vous ?",
+  "accueilSearchBarSubtitle": "Clés, téléphone, sac, portefeuille…",
+  "accueilDeclareCtaLabel": "Déclarer un objet",
+
+  "languageDialogTitle": "Choisir la langue",
+
+  "myListingsLoadError": "Impossible de charger vos annonces.",
+  "myListingsEmptyState": "Vous n'avez encore déclaré aucun objet.",
+
+  "savedListingsLoadError": "Impossible de charger vos annonces enregistrées.",
+  "savedListingsEmptyState": "Vous n'avez encore enregistré aucune annonce.",
+
+  "navHomeLabel": "Accueil",
+  "navMapLabel": "Carte",
+  "navMyListingsLabel": "Mes objets",
+  "navSavedLabel": "Enregistrés",
+
+  "categoryPhone": "Téléphone",
+  "categoryKeys": "Clés",
+  "categoryWallet": "Portefeuille",
+  "categoryIdPassport": "CIN/Passeport",
+  "categoryBag": "Sac",
+  "categoryLuggage": "Bagage",
+  "categoryAnimal": "Animal",
+  "categoryClothing": "Vêtement",
+  "categoryElectronics": "Électronique",
+  "categoryOther": "Autre",
+
+  "declareSuccessSnackbar": "Annonce publiée.",
+  "declareAppBarTitle": "Déclarer un objet",
+  "declareDescriptionLabel": "Description",
+  "declarePhotosLabel": "Photos (jusqu'à 3)",
+  "declareNeighborhoodLabel": "Quartier (optionnel)",
+  "declareDateLabel": "Date approximative",
+  "declarePositionLabel": "Position",
+  "declarePositionImpreciseWarning": "Position exacte indisponible (permission refusée ou GPS désactivé) — position par défaut affichée, ajustez-la sur la carte si besoin.",
+  "declareSubmitButton": "Publier l'annonce",
+
+  "listingsSearchAppBarTitle": "Rechercher",
+  "listingsSearchHint": "Rechercher un mot-clé...",
+  "listingsFilterAll": "Tous",
+  "listingsFilterCategoryAll": "Toutes",
+  "listingsOfflineBanner": "Hors ligne — dernières annonces consultées.",
+  "listingsEmptyState": "Aucune annonce trouvée.",
+
+  "listingDetailNotFound": "Annonce introuvable.",
+  "listingDetailClaimFoundButton": "Je pense l'avoir trouvé",
+  "listingDetailClaimOwnerButton": "C'est mon objet",
+  "listingDetailNotYoursPrompt": "Ce n'est pas votre objet ? ",
+  "listingDetailSeeOtherListingsLink": "Voir d'autres annonces",
+  "listingDetailShareMessage": "{status} sur Kuik : {category} — {description} ({location}). Ouvrez l'app Kuik pour en savoir plus.",
+  "@listingDetailShareMessage": {
+    "placeholders": {
+      "status": {"type": "String"},
+      "category": {"type": "String"},
+      "description": {"type": "String"},
+      "location": {"type": "String"}
+    }
+  },
+  "listingDetailStatusResolved": "Résolue",
+  "listingDetailStatusExpired": "Expirée",
+  "listingDetailInfoSectionTitle": "Informations",
+  "deleteConfirmTitle": "Supprimer cette annonce ?",
+  "deleteConfirmMessage": "Cette action est définitive et ne peut pas être annulée.",
+  "deleteCancelButton": "Annuler",
+  "deleteConfirmButton": "Supprimer",
+  "deleteSuccessSnackbar": "Annonce supprimée.",
+
+  "mapLoadError": "Impossible de charger la carte.",
+  "mapImpreciseLocationBanner": "Position exacte indisponible — position par défaut (Casablanca) affichée.",
+  "mapEmptyState": "Aucune annonce à proximité.",
+
+  "photoPickerTakePhoto": "Prendre une photo",
+  "photoPickerChooseFromGallery": "Choisir dans la galerie",
+
+  "matchesAppBarTitle": "Suggestions de correspondance",
+  "matchesLoadError": "Impossible de charger les suggestions.",
+  "matchesEmptyState": "Aucune suggestion pour le moment.",
+  "matchesRejectButton": "Rejeter",
+  "matchesConfirmButton": "Confirmer",
+
+  "sectionHeaderSeeAllLabel": "Voir tout",
+
+  "claimsAppBarTitle": "Réclamations",
+  "claimsLoadError": "Impossible de charger les réclamations.",
+  "claimsEmptyState": "Aucune réclamation en attente.",
+  "claimsAcceptButton": "Accepter",
+  "claimsForLabel": "Pour :",
+  "claimSubmitTitle": "Décrire ce que vous avez trouvé",
+  "claimSubmitInstructions": "Prenez une photo de l'objet et décrivez-le brièvement. Le propriétaire examinera votre réclamation avant que la conversation ne s'ouvre.",
+  "claimSubmitTitleOwner": "Prouvez que c'est votre objet",
+  "claimSubmitInstructionsOwner": "Envoyez une photo et une description qui prouvent que cet objet vous appartient. La personne qui l'a trouvé examinera votre réclamation avant que la conversation ne s'ouvre.",
+  "claimPhotoRequiredLabel": "Photo (obligatoire)",
+  "claimTakePhotoButton": "Prendre une photo",
+  "claimRetakePhotoButton": "Reprendre la photo",
+  "claimDescriptionLabel": "Description",
+  "claimDescriptionHint": "Ex. trouvé près du parc, coque bleue...",
+  "claimDescriptionHintOwner": "Ex. rayure sur le coin gauche, photo du fond d'écran...",
+  "claimSubmitButton": "Envoyer la réclamation",
+  "claimSubmitSuccessSnackbar": "Réclamation envoyée. Le propriétaire va l'examiner.",
+  "claimPhotoMissingError": "Ajoutez une photo avant d'envoyer."
+}

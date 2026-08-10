@@ -1,0 +1,159 @@
+{
+  "@@locale": "ar",
+
+  "apiErrorGeneric": "حدث خطأ ما.",
+  "apiErrorNoConnection": "تعذر الاتصال بالخادم. تحقق من اتصالك بالإنترنت.",
+
+  "notificationChannelName": "إشعارات Kuik",
+  "notificationChannelDescription": "التطابقات والرسائل الجديدة",
+
+  "commonRetry": "إعادة المحاولة",
+  "statusLost": "مفقود",
+  "statusFound": "موجود",
+  "statusLostLong": "غرض مفقود",
+  "statusFoundLong": "غرض موجود",
+
+  "fieldPhoneLabel": "الهاتف",
+  "fieldPasswordLabel": "كلمة المرور",
+  "fieldCityLabel": "المدينة",
+  "fieldCategoryLabel": "الفئة",
+  "actionLogin": "تسجيل الدخول",
+  "actionRegister": "إنشاء حساب",
+
+  "loginGreetingTitle": "مرحبًا بعودتك",
+  "loginSubtitle": "سجّل الدخول للعثور على إعلاناتك.",
+  "loginNoAccountPrompt": "ليس لديك حساب بعد؟ ",
+  "loginRegisterLink": "أنشئ حسابًا",
+
+  "registerStampLabel": "مسجَّل",
+  "registerTitle": "إنشاء\nحساب",
+  "registerSubtitle": "انضم إلى السجل للإبلاغ عن غرض أو العثور عليه.",
+  "registerNameLabel": "الاسم الكامل",
+  "registerHasAccountPrompt": "لديك حساب بالفعل؟ ",
+
+  "splashTagline": "أغراض مفقودة، تم العثور عليها.",
+
+  "stampVerifiedLabel": "موثّق",
+
+  "chatAppBarTitle": "المحادثة",
+  "chatLoadError": "تعذر تحميل الرسائل.",
+  "chatEmptyState": "لا توجد رسائل بعد.",
+  "chatComposerHint": "اكتب رسالة...",
+
+  "conversationsAppBarTitle": "المحادثات",
+  "conversationsLoadError": "تعذر تحميل المحادثات.",
+  "conversationsEmptyState": "ليس لديك أي محادثة بعد.",
+
+  "accueilProfileTooltip": "الملف الشخصي",
+  "accueilLogoutMenuItem": "تسجيل الخروج",
+  "accueilLanguageMenuItem": "اللغة",
+  "accueilGreeting": "مرحبًا",
+  "accueilSubtitle": "استعد ما يهمك.",
+  "accueilStatObjectsLabel": "أغراض",
+  "accueilStatLostLabel": "مفقودة",
+  "accueilStatFoundLabel": "موجودة",
+  "accueilNearbySectionTitle": "بالقرب منك",
+  "accueilNearbyLoadError": "تعذر تحميل الإعلانات القريبة.",
+  "accueilNearbyEmptyState": "لا توجد إعلانات قريبة حاليًا.",
+  "accueilSearchBarTitle": "عن ماذا تبحث؟",
+  "accueilSearchBarSubtitle": "مفاتيح، هاتف، حقيبة، محفظة…",
+  "accueilDeclareCtaLabel": "الإبلاغ عن غرض",
+
+  "languageDialogTitle": "اختر اللغة",
+
+  "myListingsLoadError": "تعذر تحميل إعلاناتك.",
+  "myListingsEmptyState": "لم تُبلغ عن أي غرض بعد.",
+
+  "savedListingsLoadError": "تعذر تحميل الإعلانات المحفوظة.",
+  "savedListingsEmptyState": "لم تحفظ أي إعلان بعد.",
+
+  "navHomeLabel": "الرئيسية",
+  "navMapLabel": "الخريطة",
+  "navMyListingsLabel": "أغراضي",
+  "navSavedLabel": "المحفوظات",
+
+  "categoryPhone": "هاتف",
+  "categoryKeys": "مفاتيح",
+  "categoryWallet": "محفظة",
+  "categoryIdPassport": "بطاقة التعريف/جواز السفر",
+  "categoryBag": "حقيبة",
+  "categoryLuggage": "أمتعة",
+  "categoryAnimal": "حيوان",
+  "categoryClothing": "ملابس",
+  "categoryElectronics": "إلكترونيات",
+  "categoryOther": "أخرى",
+
+  "declareSuccessSnackbar": "تم نشر الإعلان.",
+  "declareAppBarTitle": "الإبلاغ عن غرض",
+  "declareDescriptionLabel": "الوصف",
+  "declarePhotosLabel": "صور (حتى 3)",
+  "declareNeighborhoodLabel": "الحي (اختياري)",
+  "declareDateLabel": "التاريخ التقريبي",
+  "declarePositionLabel": "الموقع",
+  "declarePositionImpreciseWarning": "الموقع الدقيق غير متوفر (تم رفض الإذن أو تعطيل GPS) — يتم عرض موقع افتراضي، يمكنك تعديله على الخريطة عند الحاجة.",
+  "declareSubmitButton": "نشر الإعلان",
+
+  "listingsSearchAppBarTitle": "بحث",
+  "listingsSearchHint": "ابحث عن كلمة مفتاحية...",
+  "listingsFilterAll": "الكل",
+  "listingsFilterCategoryAll": "الكل",
+  "listingsOfflineBanner": "غير متصل — آخر الإعلانات التي تم الاطلاع عليها.",
+  "listingsEmptyState": "لم يتم العثور على أي إعلان.",
+
+  "listingDetailNotFound": "الإعلان غير موجود.",
+  "listingDetailClaimFoundButton": "أعتقد أنني وجدته",
+  "listingDetailClaimOwnerButton": "هذا غرضي",
+  "listingDetailNotYoursPrompt": "هذا ليس غرضك؟ ",
+  "listingDetailSeeOtherListingsLink": "عرض إعلانات أخرى",
+  "listingDetailShareMessage": "{status} على Kuik: {category} — {description} ({location}). افتح تطبيق Kuik لمعرفة المزيد.",
+  "@listingDetailShareMessage": {
+    "placeholders": {
+      "status": {"type": "String"},
+      "category": {"type": "String"},
+      "description": {"type": "String"},
+      "location": {"type": "String"}
+    }
+  },
+  "listingDetailStatusResolved": "محلولة",
+  "listingDetailStatusExpired": "منتهية",
+  "listingDetailInfoSectionTitle": "معلومات",
+  "deleteConfirmTitle": "هل تريد حذف هذا الإعلان؟",
+  "deleteConfirmMessage": "هذا الإجراء نهائي ولا يمكن التراجع عنه.",
+  "deleteCancelButton": "إلغاء",
+  "deleteConfirmButton": "حذف",
+  "deleteSuccessSnackbar": "تم حذف الإعلان.",
+
+  "mapLoadError": "تعذر تحميل الخريطة.",
+  "mapImpreciseLocationBanner": "الموقع الدقيق غير متوفر — يتم عرض الموقع الافتراضي (الدار البيضاء).",
+  "mapEmptyState": "لا توجد إعلانات قريبة.",
+
+  "photoPickerTakePhoto": "التقاط صورة",
+  "photoPickerChooseFromGallery": "اختيار من المعرض",
+
+  "matchesAppBarTitle": "اقتراحات التطابق",
+  "matchesLoadError": "تعذر تحميل الاقتراحات.",
+  "matchesEmptyState": "لا توجد اقتراحات حاليًا.",
+  "matchesRejectButton": "رفض",
+  "matchesConfirmButton": "تأكيد",
+
+  "sectionHeaderSeeAllLabel": "عرض الكل",
+
+  "claimsAppBarTitle": "المطالبات",
+  "claimsLoadError": "تعذر تحميل المطالبات.",
+  "claimsEmptyState": "لا توجد مطالبات معلقة.",
+  "claimsAcceptButton": "قبول",
+  "claimsForLabel": "بخصوص:",
+  "claimSubmitTitle": "صف ما وجدته",
+  "claimSubmitInstructions": "التقط صورة للغرض وصفه باختصار. سيراجع المالك مطالبتك قبل فتح المحادثة.",
+  "claimSubmitTitleOwner": "أثبت أن هذا الغرض ملكك",
+  "claimSubmitInstructionsOwner": "أرسل صورة ووصفًا يثبتان أن هذا الغرض ملكك. سيراجع الشخص الذي وجده مطالبتك قبل فتح المحادثة.",
+  "claimPhotoRequiredLabel": "صورة (إلزامية)",
+  "claimTakePhotoButton": "التقاط صورة",
+  "claimRetakePhotoButton": "إعادة التقاط الصورة",
+  "claimDescriptionLabel": "الوصف",
+  "claimDescriptionHint": "مثال: وُجد بالقرب من الحديقة، غطاء أزرق...",
+  "claimDescriptionHintOwner": "مثال: خدش في الزاوية اليسرى، صورة لخلفية الشاشة...",
+  "claimSubmitButton": "إرسال المطالبة",
+  "claimSubmitSuccessSnackbar": "تم إرسال المطالبة. سيقوم المالك بمراجعتها.",
+  "claimPhotoMissingError": "أضف صورة قبل الإرسال."
+}

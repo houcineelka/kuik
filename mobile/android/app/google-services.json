@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527738418786",
+    "project_id": "kuikmobile-b37b7",
+    "storage_bucket": "kuikmobile-b37b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527738418786:android:af1feb57e98888fbae033b",
+        "android_client_info": {
+          "package_name": "com.kuik.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Dv1nK_4Z9pACiu--GAK5VB1It--wX2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

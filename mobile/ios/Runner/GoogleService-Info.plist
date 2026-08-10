@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCdfTrwUoh0k9caLa8oOClrxRbBik1tfP8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527738418786</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kuik.mobile</string>
+	<key>PROJECT_ID</key>
+	<string>kuikmobile-b37b7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kuikmobile-b37b7.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527738418786:ios:0568aeedfef8b883ae033b</string>
+</dict>
+</plist>

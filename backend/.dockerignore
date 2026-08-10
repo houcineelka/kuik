@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+/vendor
+/node_modules
+/storage/app/firebase
+/storage/*.key
+/database/database.sqlite
+/tests
+.git
+.phpunit.cache
